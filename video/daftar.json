@@ -469,6 +469,41 @@
    "file": "k20261019-02-v3.mp4",
    "bytes": 6496076,
    "sha256": "6c0ead689ffc95d2"
+  },
+  {
+   "file": "v20261023-01.mp4",
+   "bytes": 4218900,
+   "sha256": "679b9f2591aa57a7"
+  },
+  {
+   "file": "v20261023-02.mp4",
+   "bytes": 4530097,
+   "sha256": "bfb1fc7bde024ce4"
+  },
+  {
+   "file": "v20261023-03.mp4",
+   "bytes": 5300766,
+   "sha256": "c8df6ad7b36fe131"
+  },
+  {
+   "file": "v20261023-04.mp4",
+   "bytes": 4193878,
+   "sha256": "f6eca867619383d8"
+  },
+  {
+   "file": "k20261024-01-tanpa-suara.mp4",
+   "bytes": 5885941,
+   "sha256": "73b5fc3f9b35af5b"
+  },
+  {
+   "file": "k20261024-02-tanpa-suara.mp4",
+   "bytes": 5313461,
+   "sha256": "8a5d7d7111c9627f"
+  },
+  {
+   "file": "k20261024-03-tanpa-suara.mp4",
+   "bytes": 5395588,
+   "sha256": "c230cbf7828a65d9"
   }
  ]
 }
