@@ -694,6 +694,16 @@
    "file": "k20261026-02-v2.mp4",
    "bytes": 5330999,
    "sha256": "f6397906747f4cc7"
+  },
+  {
+   "file": "k20261029-01-tanpa-suara.mp4",
+   "bytes": 5348929,
+   "sha256": "1bc93682710f3359"
+  },
+  {
+   "file": "k20261029-02-tanpa-suara.mp4",
+   "bytes": 5361244,
+   "sha256": "c3a8fc0f2e3fb9c5"
   }
  ]
 }
